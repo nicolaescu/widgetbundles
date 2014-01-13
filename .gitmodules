@@ -1,0 +1,3 @@
+[submodule "sevianno"]
+	path = sevianno
+	url = git@github.com:DadaMonad/sevianno.git
