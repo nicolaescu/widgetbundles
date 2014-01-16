@@ -4,3 +4,12 @@
 [submodule "url-replacer"]
 	path = url-replacer
 	url = git@github.com:DadaMonad/url-replacer.git
+[submodule "collaborative-editor-widget"]
+	path = collaborative-editor-widget
+	url = git@github.com:DadaMonad/collaborative-editor-widget.git
+[submodule "iwc-testing-widget-bundle"]
+	path = iwc-testing-widget-bundle
+	url = git@github.com:DadaMonad/iwc-testing-widget-bundle.git
+[submodule "SyncLD"]
+	path = SyncLD
+	url = git@github.com:DadaMonad/SyncLD.git
