@@ -1,3 +1,6 @@
 [submodule "sevianno"]
 	path = sevianno
 	url = git@github.com:DadaMonad/sevianno.git
+[submodule "url-replacer"]
+	path = url-replacer
+	url = git@github.com:DadaMonad/url-replacer.git
