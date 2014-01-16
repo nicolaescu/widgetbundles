@@ -3,7 +3,9 @@ widgetbundles
 This project consists of widget bundles, libraries and helper executable for role widget development. Also we want to show
 how to deploy role widgets.
 
-If intend to add your project into this repository, please post an issue with the git-url of your project. 
+If intend to add your project into this repository, please post an issue with the git-url of your project.
+
+Style guidelines and deployment methods are described in the [wiki](../../wiki)
 
 ## Widgets bundles
 ### Sevianno-2
