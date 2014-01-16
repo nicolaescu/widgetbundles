@@ -2,6 +2,9 @@ widgetbundles
 =============
 This project consists of widget bundles, libraries and helper executable for role widget development. Also we want to show
 how to deploy role widgets.
+
+If intend to add your project into this repository, please post an issue with the git-url of your project. 
+
 ## Widgets bundles
 ### Sevianno-2
 A web application for semantic video annotation developed by the ACIS group, chair for information systems and databases, RWTH Aachen.[Sevianno](https://github.com/DadaMonad/sevianno)
