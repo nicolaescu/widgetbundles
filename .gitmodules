@@ -13,3 +13,6 @@
 [submodule "SyncLD"]
 	path = SyncLD
 	url = git@github.com:DadaMonad/SyncLD.git
+[submodule "libraries/OpenCoweb-jsoe"]
+	path = libraries/OpenCoweb-jsoe
+	url = https://github.com/rwth-acis/OpenCoweb-jsoe.git
