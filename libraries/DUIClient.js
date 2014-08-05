@@ -35,6 +35,9 @@ DUIClient = function(){
 			this.updateState(intent);
 	};
 
+        this.getIwcClient = function(){
+          return _iwcClient;
+        }
 	/**
 	 * The target function when the intent is for getting the current widget state.<br/>
 	 * The intent.extras object here is always a Json object.
